@@ -8,6 +8,8 @@ website:
     - index.qmd
     - Alua.qmd
     - Ella.qmd
+    - Jerry.qmd
+    - Luuuu.qmd
 
 format:
   html:
